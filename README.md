@@ -1,4 +1,4 @@
-# Creating-custom-salutations-on-the-standard-contact-entity-of-D365-with-the-help-of-a-plugin-in-c#
+# Creating custom salutations on the standard contact entity of D365 with a plugin in c#
 
 Creating new fields on the standart contact entity of D365 with the help of a plugin in c# 
 
